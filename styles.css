@@ -16,6 +16,7 @@ img {
     height: 250px;
     transform: rotate(367deg);
     box-shadow: 2px 2px 2px 2px #cccccc;
+    border-radius: 7px;
 }
 
 
