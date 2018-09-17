@@ -1,11 +1,12 @@
+
 body{
-	font-family: Times New Roman;
+	font-family: Cambria;
 	font-size: 15px;
 	padding-right: 100px;
 	padding-left: 100px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-image:url("http://summemedicalclinic.com/wp-content/uploads/Gradient-Background-1.jpg");
+    background-color: #fffcfc;
 }
 
 img {
@@ -13,9 +14,10 @@ img {
     top: 25px;
     right: 150px;
     width: 200px;
-    height: 250px;
-    transform: rotate(367deg);
+    height: 200px;
+    transform: rotate(0deg);
     box-shadow: 2px 2px 2px 2px #cccccc;
+    border-radius: 7px;
 }
 
 
@@ -34,21 +36,21 @@ div{
 	padding-left: 2em; 
 }
 
-a{
-	color: grey;
-}
 
 .Goals{
-	color: grey;
     font-weight: bold;
-    font-style: italic;
-    width: 600px;
+    width: 750px;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
 
 
 em{
-    color:grey;
     float: right;
     margin: -2em 25em 2em 13em;
 }
 
+.space{
+	padding-top: 10px;
+    padding-bottom: 5px;
+}
